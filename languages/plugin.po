@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UOU Bulk Uploader\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-14 22:26+0600\n"
+"PO-Revision-Date: 2015-07-14 22:27+0600\n"
+"Last-Translator: \n"
+"Language-Team: UOU Apps <uouapps@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../templates/exim-company-export-html.php:19
+#: ../templates/exim-company-import-html.php:19
+#: ../templates/exim-industry-export-html.php:19
+#: ../templates/exim-industry-import-html.php:19
+#: ../templates/exim-page-html.php:19
+msgid "Dashboard"
+msgstr ""
+
+#: ../templates/exim-company-export-html.php:22
+#: ../templates/exim-company-import-html.php:22
+#: ../templates/exim-industry-export-html.php:22
+#: ../templates/exim-industry-import-html.php:22
+#: ../templates/exim-page-html.php:21
+msgid "Company"
+msgstr ""
+
+#: ../templates/exim-company-export-html.php:24
+#: ../templates/exim-company-import-html.php:24
+#: ../templates/exim-industry-export-html.php:24
+#: ../templates/exim-industry-import-html.php:24
+#: ../templates/exim-page-html.php:23
+msgid "Company Import"
+msgstr ""
+
+#: ../templates/exim-company-export-html.php:25
+#: ../templates/exim-company-export-html.php:55
+#: ../templates/exim-company-import-html.php:25
+#: ../templates/exim-industry-export-html.php:25
+#: ../templates/exim-industry-import-html.php:25
+#: ../templates/exim-page-html.php:24
+msgid "Company Export"
+msgstr ""
+
+#: ../templates/exim-company-export-html.php:29
+#: ../templates/exim-company-import-html.php:29
+#: ../templates/exim-industry-export-html.php:29
+#: ../templates/exim-industry-import-html.php:29
+#: ../templates/exim-page-html.php:28
+msgid "Industry"
+msgstr ""
+
+#: ../templates/exim-company-export-html.php:31
+#: ../templates/exim-company-import-html.php:31
+#: ../templates/exim-industry-export-html.php:31
+#: ../templates/exim-industry-import-html.php:31
+#: ../templates/exim-page-html.php:30
+msgid "Industry Import"
+msgstr ""
+
+#: ../templates/exim-company-export-html.php:32
+#: ../templates/exim-company-import-html.php:32
+#: ../templates/exim-industry-export-html.php:32
+#: ../templates/exim-industry-import-html.php:32
+#: ../templates/exim-page-html.php:31
+msgid "Industry Export"
+msgstr ""
+
+#: ../templates/exim-company-export-html.php:46
+msgid "Globo Company Blank CSV Template"
+msgstr ""
+
+#: ../templates/exim-company-export-html.php:49
+msgid "Download Company Blank CSV Template"
+msgstr ""
+
+#: ../templates/exim-company-export-html.php:52
+msgid "Export Company"
+msgstr ""
+
+#: ../templates/exim-company-export-html.php:53
+msgid "Download all companies as a CSV file."
+msgstr ""
+
+#: ../templates/exim-company-import-html.php:50
+#: ../templates/exim-industry-import-html.php:51
+msgid "Drop CSV Here"
+msgstr ""
+
+#: ../templates/exim-company-import-html.php:52
+#: ../templates/exim-industry-import-html.php:53
+msgid "Browse CSV"
+msgstr ""
+
+#: ../templates/exim-company-import-html.php:67
+msgid "Import Company"
+msgstr ""
+
+#: ../templates/exim-company-import-html.php:71
+msgid "Company Importing..."
+msgstr ""
+
+#: ../templates/exim-industry-export-html.php:46
+msgid "Globo Industry Blank CSV Template"
+msgstr ""
+
+#: ../templates/exim-industry-export-html.php:49
+msgid "Download Industry Blank CSV Template"
+msgstr ""
+
+#: ../templates/exim-industry-import-html.php:67
+msgid "Import Industry"
+msgstr ""
+
+#: ../templates/exim-industry-import-html.php:71
+msgid "Industry Importing..."
+msgstr ""
+
+#: ../templates/exim-page-html.php:44
+msgid "UOU Bulk Uploader"
+msgstr ""
+
+#: ../templates/exim-page-html.php:46
+msgid ""
+"Please read the documention carefully. Hope you enjoyed the UOU Bulk "
+"Uploader Plugin"
+msgstr ""
+
+#: ../templates/exim-page-html.php:47
+msgid "Visit Documentaion"
+msgstr ""
