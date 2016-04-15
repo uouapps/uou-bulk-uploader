@@ -23,7 +23,7 @@
             var tpl = $('<li class="working"><input type="text" value="0" data-width="48" data-height="48"'+
                 ' data-fgColor="#0788a5" data-readOnly="1" data-bgColor="#0073aa" /><p></p><span></span></li>');
             console.log(data.files[0].name);
-            if(data.files[0].type == 'text/csv') {
+            // if(data.files[0].type == 'text/csv') {
 
                 // Append the file name and file size
                 tpl.find('p').text(data.files[0].name)
@@ -51,11 +51,11 @@
                 var jqXHR = data.submit();
                 
 
-            } else {
+            // } else {
 
-                alert('Upload a CSV file!');
+                // alert('Upload a CSV file!');
 
-            }
+            // }
             
             
         },
@@ -81,16 +81,16 @@
         
         done: function (e, data) {
             console.log(data);
-            if(data.files[0].type == 'text/csv') {
+            // if(data.files[0].type == 'text/csv') {
 
                 $('#import-csv-file').val(data.result);
                 $('#globo_hide').slideDown();
 
-            } else {
+            // } else {
 
-                alert('Upload a CSV file!');
+                // alert('Upload a CSV file!');
 
-            }
+            // }
             // data.context.text('Upload finished.');
         }
 
